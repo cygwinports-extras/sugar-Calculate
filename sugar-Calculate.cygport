@@ -1,0 +1,5 @@
+NAME="sugar-Calculate"
+VERSION=41
+RELEASE=1
+SUGAR_TYPE="Fructose"
+inherit sugar
